@@ -1,0 +1,10 @@
+{
+	"id": "double-right-click-edit",
+	"name": "Double Right Click to Toggle Mode",
+	"version": "1.1.0",
+	"minAppVersion": "0.15.0",
+	"description": "双击鼠标右键，在阅读模式和编辑模式之间快速切换。",
+	"author": "Gemini",
+	"authorUrl": "",
+	"isDesktopOnly": false
+}
